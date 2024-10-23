@@ -1,3 +1,3 @@
 # SeaSnake_distributions
 
- Some useful scripts for processing seasnake spatial data.
+ Some useful scripts for processing sea snake spatial data.
